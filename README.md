@@ -1,7 +1,6 @@
 # Dice Game 🎲
 
-[VIEW WEBSITE](https://danbaz7.github.io/Guess_Baz_Number/)
-
+[VIEW WEBSITE](https://danbaz7.github.io/Dice/)
 A two-player dice game inspired by the classic Pig Game, built with vanilla JavaScript, HTML, and CSS.
 
 ## Features
